@@ -1,0 +1,14 @@
+# CentOS-StorCli.repo
+#
+# This repo has been packaged with the latest Broadcom
+# StorCli package as of Tuesday, Oct 23, 2018
+#
+# (c) Cisco Advanced Services
+# malarivi
+#
+
+[storcli]
+name=CentOS-StorCli
+baseurl=file:///home/admin/storcli/
+gpgcheck=0
+enabled=1

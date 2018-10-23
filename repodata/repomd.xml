@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+ <revision>1540304423</revision>
+<data type="filelists">
+  <checksum type="sha256">2c531fd6bd9521dfb28abf86175b426be6c02b452fb7f9916bcb90cc43bdd67c</checksum>
+  <open-checksum type="sha256">330dd74ef4fff9bbf86732aae3277b8bf155defdc2c1067a6f94324b3f53fcba</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/2c531fd6bd9521dfb28abf86175b426be6c02b452fb7f9916bcb90cc43bdd67c-filelists.xml.gz"/>
+  <timestamp>1540304423</timestamp>
+  <size>269</size>
+  <open-size>396</open-size>
+</data>
+<data type="primary">
+  <checksum type="sha256">21f2dc03fd4692ce200282ec5d568ea6e199bfa5b8a09b2fe30cff884c104ab2</checksum>
+  <open-checksum type="sha256">9852facdde65aa7f180f9488d750c4a1ee23b038c9886277af1bc814f94517f3</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/21f2dc03fd4692ce200282ec5d568ea6e199bfa5b8a09b2fe30cff884c104ab2-primary.xml.gz"/>
+  <timestamp>1540304423</timestamp>
+  <size>681</size>
+  <open-size>1352</open-size>
+</data>
+<data type="primary_db">
+  <checksum type="sha256">93d33519eb3b4c0f21c2bf3ab2ebcc998c0d0456a185ea1e6769e028a19a54f4</checksum>
+  <open-checksum type="sha256">67a05d46cbbd95b2c46f5b600d652c34afa91040495ad0806009af9ed65eff99</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/93d33519eb3b4c0f21c2bf3ab2ebcc998c0d0456a185ea1e6769e028a19a54f4-primary.sqlite.bz2"/>
+  <timestamp>1540304424</timestamp>
+  <database_version>10</database_version>
+  <size>1610</size>
+  <open-size>21504</open-size>
+</data>
+<data type="other_db">
+  <checksum type="sha256">edb2e090ed9a8db6822e3436f919ece49d1060f5bac480ceb7cbfcda7bec1dad</checksum>
+  <open-checksum type="sha256">87138c0f63e23608d4e57e619e26a70f092964013c089b8e46ecefc1ce4fcbf0</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/edb2e090ed9a8db6822e3436f919ece49d1060f5bac480ceb7cbfcda7bec1dad-other.sqlite.bz2"/>
+  <timestamp>1540304424</timestamp>
+  <database_version>10</database_version>
+  <size>662</size>
+  <open-size>6144</open-size>
+</data>
+<data type="other">
+  <checksum type="sha256">c06eee1ddd919762b4ccaab858767844af6d9f2f02e956f35f379bbc21c22c4b</checksum>
+  <open-checksum type="sha256">cefe17cd776bae98d3524955980791f8933a9bc3428c3d64cbadac5f1cbeab20</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/c06eee1ddd919762b4ccaab858767844af6d9f2f02e956f35f379bbc21c22c4b-other.xml.gz"/>
+  <timestamp>1540304423</timestamp>
+  <size>234</size>
+  <open-size>300</open-size>
+</data>
+<data type="filelists_db">
+  <checksum type="sha256">11299ac153803d263f75f9eceae75fb4cea4003d009b7acaceb25d7364dcff29</checksum>
+  <open-checksum type="sha256">979051bcec6614e0bc9e422cfb82ec7899d96ae72e3472cc1433eb72e182423f</open-checksum>
+  <location xml:base="file:///home/admin/storcli/" href="repodata/11299ac153803d263f75f9eceae75fb4cea4003d009b7acaceb25d7364dcff29-filelists.sqlite.bz2"/>
+  <timestamp>1540304424</timestamp>
+  <database_version>10</database_version>
+  <size>751</size>
+  <open-size>7168</open-size>
+</data>
+</repomd>
